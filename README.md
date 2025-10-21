@@ -129,4 +129,4 @@ Feature selection using VIF reduced multicollinearity, improving model stability
 Logistic Regression trained on scaled, low-VIF features achieved ~90% accuracy.
 The model demonstrates high recall for fraud detection, which is critical in minimizing financial loss due to undetected fraudulent transactions.
 
-### After this we have compared the results with others models , the results are given in the (comparing other model .ipynb file) [we saw that results are not good in other traditional models
+### After this we have compared the results with others models , the results are given in the (comparing other model .ipynb file) [we saw that results are not good in other traditional models]
