@@ -1,9 +1,9 @@
 # Fraud-Detection-Tackling-Extreme-Class-Imbalance-Using-Hybrid-Approaches
 
 # Objective
-1.	To explore the applicability of VAEs in handling highly imbalanced supervised datasets — investigating how generative modeling can help rebalance data distributions by generating synthetic minority samples.
+1.	To explore the applicability of Variational Autoencoder (VAEs) in handling highly imbalanced supervised datasets — investigating how generative modeling can help rebalance data distributions by generating synthetic minority samples.
 
-2.	To compare the performance of VAE-based synthetic data augmentation with traditional imbalanced learning techniques such as weighted logistic regression, Random Forest, Gradient Boosting, XGBoost, and ensemble methods.
+2.	To compare the performance of VAE-based synthetic data augmentation with traditional imbalanced learning techniques such as weighted logistic regression, Random Forest, Ada Boosting, XGBoost, and ensemble methods.
 
 3.	To evaluate the effectiveness of VAE-generated data on model performance metrics such as accuracy, precision, recall, F1-score.
 
